@@ -67,12 +67,10 @@ body {
   cursor: pointer;
 }
 
-/* يمكنك وضع هذا في style.css أو ملف CSS الذي تستخدمه */
-
 #copy-message {
   position: absolute;
-  right: 40px;         /* قرب الرسالة من الأيقونة */
-  bottom: 60px;        /* فوق الأيقونة مباشرة */
+  right: 40px;        
+  bottom: 60px;       
   background: #4caf50;
   color: #fff;
   padding: 8px 18px;
